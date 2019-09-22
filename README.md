@@ -40,4 +40,4 @@ Classification of tumor as malignant and benign to detect breast cancer
 
 ![output7](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Output/output7.png)
 
-# Accuracy
+# Accuracy = 94.2%
