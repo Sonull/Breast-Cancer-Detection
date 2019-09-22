@@ -6,19 +6,19 @@ Classification of tumor as malignant and benign to detect breast cancer
 
 # Building a Decision Tree
 
-![code1](https://github.com/Sonull/Breast-Cancer-Prediction/tree/master/Codes/code1.png)
+![code1](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Codes/code1.png)
 
 ![output1](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Output/output1.png)
 
 
-![code2](https://github.com/Sonull/Breast-Cancer-Prediction/tree/master/Codes/code2.png)
+![code2](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Codes/code2.png)
 
-![code3](https://github.com/Sonull/Breast-Cancer-Prediction/tree/master/Codes/code3.png)
+![code3](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Codes/code3.png)
 
 ![output3](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Output/output3.png)
 
 
-![code4](https://github.com/Sonull/Breast-Cancer-Prediction/tree/master/Codes/code4.png)
+![code4](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Codes/code4.png)
 
 ![output4a](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Output/output4a.png)
 
@@ -28,15 +28,15 @@ Classification of tumor as malignant and benign to detect breast cancer
 
 ![output4](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Output/output4.png)
 
-![code5](https://github.com/Sonull/Breast-Cancer-Prediction/tree/master/Codes/code5.png)
+![code5](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Codes/code5.png)
 
 ![output5](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Output/output5.png)
 
-![code6](https://github.com/Sonull/Breast-Cancer-Prediction/tree/master/Codes/code6.png)
+![code6](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Codes/code6.png)
 
 ![output6](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Output/output6.png)
 
-![code7](https://github.com/Sonull/Breast-Cancer-Prediction/tree/master/Codes/code7.png)
+![code7](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Codes/code7.png)
 
 ![output7](https://github.com/Sonull/Breast-Cancer-Prediction/blob/master/Output/output7.png)
 
